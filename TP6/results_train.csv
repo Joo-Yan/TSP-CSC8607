@@ -1,0 +1,3 @@
+tag,materiel,epoque,precision,channels_last,compile,donnees,workers,epoque_s,img_s,top1_val
+best,NVIDIA H100 NVL,0,bf16,True,False,raw,3,28.0,459.3,0.994
+best,NVIDIA H100 NVL,1,bf16,True,False,raw,3,16.7,771.2,0.994
